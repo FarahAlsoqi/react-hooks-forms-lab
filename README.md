@@ -23,7 +23,7 @@ passing data and callback functions as props, and working with events.
 
 ## Deliverables
 
-### Filter
+### Filter 
 
 In the filter component, there is a new input field for searching our list.
 _When the user types in this field_, the list of items should be filtered so
